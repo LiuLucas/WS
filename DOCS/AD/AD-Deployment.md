@@ -1,6 +1,6 @@
 # Windows Server 2016中部署AD
 
-[AD](https://docs.microsoft.com/zh-cn/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services80overview)是Active Directory的简写，中文称活动目录。活动目录(Active Directory)主要提供以下功能：1、服务器及客户端计算机管理，2、用户服务，3、资源管理，4、桌面配置，5、应用系统支撑等；更多AD DS概述请查看[微软技术文档](https://docs.microsoft.com/zh-cn/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview),本文详细介绍AD DS的部署。
+[AD](https://docs.microsoft.com/zh-cn/windows-server/identity/ad-ds/active-directory-domain-services)是Active Directory的简写，中文称活动目录。活动目录(Active Directory)主要提供以下功能：1、服务器及客户端计算机管理，2、用户服务，3、资源管理，4、桌面配置，5、应用系统支撑等；更多AD DS概述请查看[微软技术文档](https://docs.microsoft.com/zh-cn/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview),本文详细介绍AD DS的部署。
 
 ## 主题：
 - [部署环境](#部署环境)
