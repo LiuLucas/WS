@@ -72,5 +72,9 @@ AD DS的数据库、日志文件和SYSVOL的位置我们指定在D盘目录下�
 ![AD DA配置向导](./../../IMGS/AD/AD-Deployment-18.png)
 先决条件检查通过，点击“安装”，如果不通过请根据提示查看原因
 ![AD DA配置向导](./../../IMGS/AD/AD-Deployment-19.png)
-正在进行自动部署，部署途中会自动重启服务器
+正在进行自动部署，部署完成后会自动重启服务器
 ![AD DA配置向导](./../../IMGS/AD/AD-Deployment-20.png)
+AD域控制器部署完成，打开“服务器管理器”-“工具”-“Active Directory用户和计算机”
+![服务器管理器](./../../IMGS/AD/AD-Deployment-21.png)
+就可以看到我们刚才部署好的域，这样一个完整的域就部署完成了
+![AD用户和计算机](./../../IMGS/AD/AD-Deployment-22.png)
