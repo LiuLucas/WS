@@ -25,6 +25,7 @@
 
 1、部署AD域控制器，见[AD域控制器部署部分](./../../DOCS/AD/AD-Deployment.md) \
 2、将DHCP服务器的IP地址设置成手动指定，DNS指向AD域服务器IP \
+<<<<<<< HEAD
 ![IP](./../../IMGS/DHCP/DHCP-Deployment-2.PNG)
 3、将DHCP服务器加入域中（加域完成后重启服务器）
 ![服务器管理器](./../../IMGS/DHCP/DHCP-Deployment-3.PNG)
