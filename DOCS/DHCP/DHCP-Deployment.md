@@ -25,14 +25,14 @@
 
 1、部署AD域控制器，见[AD域控制器部署部分](./../../DOCS/AD/AD-Deployment.md) \
 2、将DHCP服务器的IP地址设置成手动指定，DNS指向AD域服务器IP \
-![IP](./../../IMGS/DHCP/DHCP-Deployment-2.PNG)
+![IP](./../../IMGS/DHCP/DHCP-Deployment-2.png)
 3、将DHCP服务器加入域中（加域完成后重启服务器）
-![服务器管理器](./../../IMGS/DHCP/DHCP-Deployment-3.PNG)
+![服务器管理器](./../../IMGS/DHCP/DHCP-Deployment-3.png)
 
 ## 角色安装
 
 在需要部署DHCP的服务器中打开“服务器管理器”，点击“添加角色和功能”
-![](./../../IMGS/DHCP/DHCP-Deployment-4.PNG)
+![](./../../IMGS/DHCP/DHCP-Deployment-4.png)
 运行“添加角色和功能向导”，点击“下一步”
 ![](./../../IMGS/DHCP/DHCP-Deployment-5.PNG)
 安装类型选择“基于角色或基于功能的安装”，点击“下一步”
