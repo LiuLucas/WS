@@ -9,3 +9,9 @@
 
 ## IP使用信息表
 
+| IP地址 | 服务器名称 | 角色 | 操作系统 |
+| :---: | :-----: | :--- | :----- |
+| 192.168.100.244 | Hyper-V | Hyper-V | Windows Server 2016 Datacenter Evaluation |
+| 192.168.100.247 | SQLServer | SQLServer | Windows Server 2016 Datacenter Evaluation |
+| 192.168.100.250 | AD1 | AD DS | Windows Server 2016 Datacenter Evaluation |
+| 192.168.100.252 | DHCP | DHCP | Windows Server 2016 Datacenter Evaluation |
