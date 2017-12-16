@@ -1,4 +1,4 @@
-# Windows Server 2016 存储池和ISCSI
+# Windows Server 2016 存储池和ISCSI虚拟磁盘
 
 本文部署存储池，创建虚拟硬盘，新建卷，配置ISCSI目标服务器，将存储虚拟化。这里新建ISCSI虚拟磁盘是和群集故障转移结合，从而达到群集功能。
 
