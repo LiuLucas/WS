@@ -87,7 +87,7 @@ ISCSI目标选择“新建ISCSI目标”，点击“下一步”
 ![](./../../IMGS/DHCP/DHCP-Cluster-Deployment-19.png)
 设置“ISCSI目标”，已经设置过了，选择“现有ISCSI目标”，点击“下一步”
 ![](./../../IMGS/DHCP/DHCP-Cluster-Deployment-20.png)
-确认配置，点击“下一步”
+确认配置，点击“创建”
 ![](./../../IMGS/DHCP/DHCP-Cluster-Deployment-21.png)
 配置完成，点击“关闭”
 ![](./../../IMGS/DHCP/DHCP-Cluster-Deployment-22.png)
