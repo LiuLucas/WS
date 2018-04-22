@@ -21,8 +21,8 @@
 | 002 | Storage | 192.168.100.252| Windows Server 2016 Datacenter Evaluation |
 | 003 | DHCP1 | 192.168.100.246| Windows Server 2016 Datacenter Evaluation |
 | 004 | DHCP2 | 192.168.100.247| Windows Server 2016 Datacenter Evaluation |
-| 005 | CDHCP | 192.168.100.248 |  DHCP Cluster | / |
-| 006 | DHCP | 192.168.100.249 |  DHCP Service | / |
+| 005 | CDHCP | 192.168.100.248 |  DHCP Cluster |
+| 006 | DHCP | 192.168.100.249 |  DHCP Service |
 
 ## 先决条件设置
 

@@ -18,9 +18,9 @@
 | 192.168.100.247 | DHCP2 | DHCP | Windows Server 2016 Datacenter Evaluation |
 | 192.168.100.248 | DHCP | DHCP Cluster | / |
 | 192.168.100.249 | DHCP | DHCP Service | / |
-| 192.168.100.242 | SQLServer1 | SQLServer | Windows Server 2016 Datacenter Evaluation |
-| 192.168.100.243 | SQLServer2 | SQLServer | Windows Server 2016 Datacenter Evaluation |
-| 192.168.100.244 | CSQLServer | SQLServer Cluster | / |
+| 192.168.100.242 | SQL1 | SQLServer | Windows Server 2016 Datacenter Evaluation |
+| 192.168.100.243 | SQL2 | SQLServer | Windows Server 2016 Datacenter Evaluation |
+| 192.168.100.244 | CSQL | SQLServer Cluster | / |
 | 192.168.100.245 | MSSQL | SQLServer Service | / |
 | 192.168.100.240 | RDCB1 | RDCB | Windows Server 2016 Datacenter Evaluation |
 | 192.168.100.241 | RDCB2 | RDCB | Windows Server 2016 Datacenter Evaluation |
